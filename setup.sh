@@ -11,7 +11,9 @@ sudo pacman -S --noconfirm zathura-git && sudo pacman -S --noconfirm zathura-pdf
 sudo pacman -S --noconfirm neofetch;
 #sudo pacman -S --noconfirm htop;
 sudo pacman -S --noconfirm firefox;
-sudo pacman -S --noconfirm spotify
+sudo pacman -S --noconfirm spotify;
+
+sudo pacman -Syy --noconfirm && sudo pacman -Su --noconfirm
 
 
 
